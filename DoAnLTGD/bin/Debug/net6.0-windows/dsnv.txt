@@ -1,0 +1,4 @@
+nv1;Nguyễn Tấn Trụ;Quản lý;1;1
+nv2;Ngô Sài Ủ;Nhân viên;2;2
+nv3;Nguyễn Minh Triết;Quản lý;3;3
+nv4;Nguyễn Văn A;Nhân viên;123;123

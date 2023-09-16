@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="FDangNhap.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FKhachHang.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FSanPham.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FSuaThongTinKH.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FSuaThongTinSP.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FSuaThongTinTK.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FThanhToan.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FThemKhachHang.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FThemSanPham.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FThemTaiKhoan.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FTrangChu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="LearnDataGridView.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="RJButtom.cs">
+      <SubType>Component</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Update="Properties\Resources.resx">
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+  </ItemGroup>
+</Project>
